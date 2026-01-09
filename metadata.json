@@ -1,0 +1,9 @@
+{
+  "name": "medicore",
+  "description": "A comprehensive smart health decision support system featuring symptom analysis, drug identification from images, and a real-time AI voice assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
